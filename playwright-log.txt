@@ -1,4 +1,0 @@
-{"level":30,"time":"2021-05-05T09:53:05.813Z","pid":43528,"hostname":"LAPTOP-2BHELHVT","msg":"Listening on 58071"}
-{"level":30,"time":"2021-05-05T09:53:06.453Z","pid":43528,"hostname":"LAPTOP-2BHELHVT","msg":"Changed active context"}
-{"level":30,"time":"2021-05-05T09:53:06.589Z","pid":43528,"hostname":"LAPTOP-2BHELHVT","msg":"Video path: undefined"}
-{"level":30,"time":"2021-05-05T09:53:06.589Z","pid":43528,"hostname":"LAPTOP-2BHELHVT","msg":"Changed active page"}
