@@ -1,0 +1,5 @@
+{"level":30,"time":"2021-05-05T10:08:27.070Z","pid":57664,"hostname":"LAPTOP-2BHELHVT","msg":"Listening on 59611"}
+{"level":30,"time":"2021-05-05T10:08:27.397Z","pid":57664,"hostname":"LAPTOP-2BHELHVT","msg":"Changed active context"}
+{"level":30,"time":"2021-05-05T10:08:27.483Z","pid":57664,"hostname":"LAPTOP-2BHELHVT","msg":"Video path: undefined"}
+{"level":30,"time":"2021-05-05T10:08:27.483Z","pid":57664,"hostname":"LAPTOP-2BHELHVT","msg":"Changed active page"}
+{"level":30,"time":"2021-05-05T10:08:33.712Z","pid":57664,"hostname":"LAPTOP-2BHELHVT","msg":"Retrieved text for element css=h1 strong containing Ta na hora de matar a fome!"}
